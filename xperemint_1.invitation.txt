@@ -1,0 +1,17 @@
+# leanstartupnight
+
+(this is the invitation created for the first meetup group on September 29, 2015)
+
+Hi! I’m Kevin, a startup entrepreneur that works with and is fanatic about Lean Startup and Scrum.  I have worked as a developer, manager, consultant, and currently have my own consultancy coaching and leading software development projects of all types and sizes and specialize in large ERP implementations. 
+
+Lean Startup Experiments Night is an idea to introduce an open source framework to improve communication and build teams while learning lean startup experiments by doing them.
+
+The implementation of the framework is based on Lean Startup, Scrum, and PRINCE 2 (and dashed with various other methods too). 
+
+I would like to have your feedback regarding the framework and hear about general interest in starting it as an open source project. 
+
+The meetup is targets all lean, agile, designer, coder, entrepreneur, and start up types that use processes in daily work and/or just want to learn more about how to implement various methodologies into daily processes to improve the communication of teams and help build stronger teams.
+
+At the moment I’m looking for a sponsor for snacks and drinks so please get in touch if you could help out with that end of it.
+
+Looking forward to hear from you all and see you at the meetup!
