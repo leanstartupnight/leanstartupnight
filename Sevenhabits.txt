@@ -1,0 +1,9 @@
+condensed list of 7 Habits for running highly effective experiments:
+ 
+1. Declare you expected outcomes upfront. 
+2. Make declaring outcomes a team sport. 
+3. Emphasize estimation not precision. 
+4. Measure actions versus words. 
+5. Turn your assumptions into falsifiable hypotheses. 
+6. Time-box your experiments. 
+7. Always use a control group.
